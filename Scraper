@@ -1,0 +1,2 @@
+from urllib.request import urlopen as request
+from bs4 import BeautifulSoup as bsoup
